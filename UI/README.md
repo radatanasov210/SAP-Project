@@ -1,3 +1,4 @@
+Място за допълнителни идеи.
 // UI Swing Framework
 
 Flatlaf Framework url: https://github.com/JFormDesigner/FlatLaf
