@@ -52,3 +52,11 @@ public class main {
         }
     }
 }
+//Това трябва да изведе конзолата в случая:
+//id                  name                egn                 address             phone               class               
+//1                   Iliyan Ivanov       9401150045          Sofia-Mladost 1     0893452120          10                  
+//2                   Ivan Iliev Georgiev 9510104512          Sofia-Liylin        0894123456          11                  
+//3                   Elena Petrova Petrova9505052154          Sofia-Mladost 3     0897852412          11                  
+//4                   Ivan Iliev Iliev    9510104542          Sofia-Mladost 3     0894123457          11                  
+//5                   Maria Hristova Dimova9510104547          Sofia-Mladost 4     0894123442          11                  
+//6                   Antoaneta Ivanova Georgieva9411104547          Sofia-Krasno selo   0874526235          10  
