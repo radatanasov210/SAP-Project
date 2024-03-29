@@ -1,0 +1,76 @@
+Поставете кода в https://dbml.dbdiagram.io/home/, за да видите таблиците.
+Не съм довършил всичко, ако някой може да разгледа и ако има идеи да довърши.
+Руди
+
+Table users {
+  id integer [primary key]
+  first_name varchar [not null]
+  last_name varchar [not null]
+  email varchar [not null]
+  phone varchar [not null]
+  birthdate datetime
+  gender enum(male, female, other)
+}
+
+Table accounts {
+  id integer [primary key]
+  username varchar [not null]
+  password varchar [not null]
+  user_id int [not null]
+}
+
+Table products {
+  id integer [primary key]
+  name varchar [not null]
+  description text
+  price decimal [not null]
+  picture blop
+}
+
+Table product_available_quantity {
+  id integer [primary key]
+  availableQuantity int [not null]
+  product_id integer [primary key]
+}
+
+Table product_statistics {
+  id integer [primary key]
+  timesAddedToBasket integer
+  timesVisited integer
+  timesBought integer
+  product_id integer [primary key]
+}
+
+Table product_price {
+  id integer [primary key]
+  minSalePrice decimal
+  isCurrentlyOnSale boolean [not null]
+  product_id int [not null]
+}
+
+Table transactions {
+  id integer [primary key]
+  date datetime [not null]
+  sumOfTransaction decimal [not null]
+  user_id int [not null]
+}
+
+Table order_user {
+  id integer [primary key]
+  user_id int [not null]
+}
+
+Table order_product {
+  id integer [primary key]
+  
+}
+
+Ref: transactions.user_id > users.id // many-to-one
+
+Ref: accounts.user_id > users.id // one-to-one
+
+Ref: product_statistics.product_id > products.id // one-to-one
+
+Ref: product_price.product_id > products.id // one-to-one
+
+Ref: product_available_quantity.product_id > products.id // one-to-one
