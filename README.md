@@ -20,26 +20,55 @@
 Потребителите могат да се регистрират със свой акаунт или да влязат със съществуващ.
 Всеки потребител има личен профил, чрез който може да закупува книги.
 Търсене в различни категории:
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/e1871215-291a-4180-83dc-573971d8bc7b)
+
+<img src="https://github.com/radatanasov210/SAP-Project/assets/115942521/e1871215-291a-4180-83dc-573971d8bc7b" 
+     width="600" 
+     height="300" />
+
 Потребителят може да си избере да търси книги по заглавие или автор, както и да разглежда различните категории жанрове
 Преглед на страница с детайли за книгата:
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/2cda26e3-fd8e-4dba-9a2b-4cc5078607f4)
+
+<img src="https://github.com/radatanasov210/SAP-Project/assets/115942521/2cda26e3-fd8e-4dba-9a2b-4cc5078607f4" 
+     width="600" 
+     height="300" />
+
 Всяка книга си има отделна страница в която потребителите могат да получат информация за книгато относно автор, жанр брой страници и др.
 Добавяне в количка и поръчка:
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/6f67f107-5743-4888-af6d-6a323cecf3bd)
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/27b0834a-86f4-4bc0-8d56-77f74d528cb8)
+
+<img src="https://github.com/radatanasov210/SAP-Project/assets/115942521/6f67f107-5743-4888-af6d-6a323cecf3bd" 
+     width="600" 
+     height="300" />
+<img src="https://github.com/radatanasov210/SAP-Project/assets/115942521/27b0834a-86f4-4bc0-8d56-77f74d528cb8" 
+     width="600" 
+     height="300" />
+
 Потребителите могат да добавят книги към своята количка за пазаруване.
 Потребителите имат възможност за преглед и редактиране на съдържанието на количката преди завършване на покупката.
 
 2.2 Администратор
 Admin menu:
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/c1bddb06-06fb-4885-b6d9-b86933d7248c)
+<img src="https://github.com/radatanasov210/SAP-Project/assets/115942521/c1bddb06-06fb-4885-b6d9-b86933d7248c" 
+     width="600" 
+     height="300" />
+
 Добавяне Редактиране и Изтриване на продукти:
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/66cf3540-18a8-4859-a9a4-ca52240e5e01)
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/dfab9b11-9f3f-4156-bc1a-56aace6df015)
-Достъп до различни видове статистики
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/53ceed6a-4979-412d-82e0-42875a49eabc)
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/3a829a0c-4439-4301-b77f-9bf0bdc2dea7)
+
+<img src="https://github.com/radatanasov210/SAP-Project/assets/115942521/66cf3540-18a8-4859-a9a4-ca52240e5e01" 
+     width="600" 
+     height="300" />
+<img src="https://github.com/radatanasov210/SAP-Project/assets/115942521/dfab9b11-9f3f-4156-bc1a-56aace6df015" 
+     width="600" 
+     height="300" />
+
+Достъп до различни видове статистики:
+
+<img src="https://github.com/radatanasov210/SAP-Project/assets/115942521/53ceed6a-4979-412d-82e0-42875a49eabc" 
+     width="600" 
+     height="300" />
+<img src="https://github.com/radatanasov210/SAP-Project/assets/115942521/3a829a0c-4439-4301-b77f-9bf0bdc2dea7" 
+     width="600" 
+     height="300" />
+
 Достъп до различни видове статистики
 3. Технологии
 Уебсайтът е разработен с използването на:
