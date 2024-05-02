@@ -13,6 +13,10 @@
 <img src="https://github.com/radatanasov210/SAP-Project/assets/115942521/accd3fba-2f5e-44db-bdf8-9a4317d2dec8" 
      width="600" 
      height="300" />
+<img src="https://github.com/radatanasov210/SAP-Project/assets/115942521/63116450-c151-46d8-b9ac-3ff7fc12e1da" 
+     width="600" 
+     height="300" />
+     
 Потребителите могат да се регистрират със свой акаунт или да влязат със съществуващ.
 Всеки потребител има личен профил, чрез който може да закупува книги.
 Търсене в различни категории:
