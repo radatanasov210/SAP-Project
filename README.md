@@ -47,6 +47,7 @@
 
 2.2 Администратор
 Admin menu:
+
 <img src="https://github.com/radatanasov210/SAP-Project/assets/115942521/c1bddb06-06fb-4885-b6d9-b86933d7248c" 
      width="600" 
      height="300" />
@@ -71,6 +72,36 @@ Admin menu:
 
 Достъп до различни видове статистики
 3. Технологии
+<h5>Бизнес Модел</h5>
+
+![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/626550bb-4f84-4dd3-a8bd-dc90f4e65465)
+
+
+<h5>Aрхитектурна Диаграма</h5>
+
+![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/7828b43c-f5d1-4aee-9460-bb16896cdce6)
+
+<h5>Диаграма на Базата данни</h5>
+
+![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/35fe46c9-1fb4-4997-886d-0c933e55ffb6)
+
+<h5>Диаграма на класовете</h5>
+
+![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/84b23e62-1c30-445c-aff1-05039fdf9191)
+
+<h5>Sequence Диаграми</h5>
+>register
+
+![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/2e3ccb1d-c466-4ada-aafd-c7397139da74)
+
+>order
+
+![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/e85eb211-de5d-4c9f-b8fb-b112b0a18e7c)
+
+>add to cart
+
+![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/c0add3d5-e34a-4510-98c0-e957ea8a0116)
+
 Уебсайтът е разработен с използването на:
 
 Frontend: HTML, CSS, JavaScript, React.js
