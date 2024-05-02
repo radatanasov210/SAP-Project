@@ -54,39 +54,25 @@
 login:
 ![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/accd3fba-2f5e-44db-bdf8-9a4317d2dec8)
 Register:
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/8411be6b-469e-43e6-a0e7-822d4550f161)
+![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/423bd153-63ea-4e58-b4e2-952af7765d1c)
 Catalog:
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/9c1da268-d668-4424-9463-4840ce514b54)
+![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/e1871215-291a-4180-83dc-573971d8bc7b)
+book's page:
+![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/2cda26e3-fd8e-4dba-9a2b-4cc5078607f4)
 Cart:
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/7f25bd9c-494f-4812-900f-39d3c1c124db)
+![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/6f67f107-5743-4888-af6d-6a323cecf3bd)
 Order tab:
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/672b02ed-be2d-49c2-bc9c-8603e4fc4dea)
-book's page:
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/679f48bd-0206-44e8-bfc3-269361ca8bdb)
+![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/27b0834a-86f4-4bc0-8d56-77f74d528cb8)
 Admin menu:
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/925142e1-187c-4573-8779-5f14ec4cf3cc)
+![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/c1bddb06-06fb-4885-b6d9-b86933d7248c)
 Create Products:
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/7ef192ac-19cc-4bf0-9570-7b771d3a9090)
+![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/66cf3540-18a8-4859-a9a4-ca52240e5e01)
 Modify Products:
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/679f48bd-0206-44e8-bfc3-269361ca8bdb)
-book's page:
-![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/679f48bd-0206-44e8-bfc3-269361ca8bdb)
+![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/dfab9b11-9f3f-4156-bc1a-56aace6df015)
 List of all users:
 ![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/53ceed6a-4979-412d-82e0-42875a49eabc)
 List of all orders:
 ![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/3a829a0c-4439-4301-b77f-9bf0bdc2dea7)
-
-
-
-
-
-
-
-
-
-
-
-
 3. Технологии
 Уебсайтът е разработен с използването на:
 
