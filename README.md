@@ -52,9 +52,11 @@
 
 > Следене на наличности на продукти.
 
-login:
+<h3>Регистрация и вход</h3>
 ![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/accd3fba-2f5e-44db-bdf8-9a4317d2dec8)
-Register:
+![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/423bd153-63ea-4e58-b4e2-952af7765d1c)
+Потребителите могат да се регистрират със свой акаунт или да влязат със съществуващ.
+Всеки потребител има личен профил, чрез който може да закупува книги.
 ![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/423bd153-63ea-4e58-b4e2-952af7765d1c)
 Catalog:
 ![image](https://github.com/radatanasov210/SAP-Project/assets/115942521/e1871215-291a-4180-83dc-573971d8bc7b)
